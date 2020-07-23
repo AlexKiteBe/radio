@@ -1,0 +1,5 @@
+#!/bin/env zsh
+
+ALIAS=$1
+STATION=$(jq .$ALIAS -r /usr/bin/radio/station.json)
+mplayer $STATION

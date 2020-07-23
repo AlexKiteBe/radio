@@ -1,0 +1,12 @@
+{
+    "rixfm": "http://fm01-ice.stream.khz.se/fm01_aac",
+    "rixfm_fresh": "http://wr04-ice.stream.khz.se/wr04_aac",
+    "lugna_favoriter": "http://fm03-ice.stream.khz.se/fm03_aac",
+    "p1": "https://sverigesradio.se/topsy/direkt/132-hi-aac.m3u",
+    "p2": "https://sverigesradio.se/topsy/direkt/2562-hi-aac.m3u",
+    "p3": "https://sverigesradio.se/topsy/direkt/164-hi-aac.m3u",
+    "ekot": "https://sverigesradio.se/topsy/direkt/4540-hi-aac.m3u",
+    "p4-v": "https://sverigesradio.se/topsy/direkt/215-hi-aac.m3u",
+    "p4-m": "https://sverigesradio.se/topsy/direkt/207-hi-aac.m3u",
+    "nrj": "http://edge-bauersefm-05-gos1.sharp-stream.com/nrj_instreamtest_se_mp3?"
+}
