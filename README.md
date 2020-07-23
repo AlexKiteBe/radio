@@ -1,5 +1,5 @@
 To listen to the radio  
-  $ radio ALIAS
+  $ radio ALIAS  
 Where ALIAS is your favorite station.  
 Aliases can be found in the station.json.  
 
