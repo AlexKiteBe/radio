@@ -3,5 +3,5 @@ To listen to the radio
 Where ALIAS is your favorite station.  
 Aliases can be found in the station.json.  
 
-place radio folder in /usr/bin/ and export path  
-$ export PATH="/usr/bin/radio:$PATH"
+place radio script in /usr/bin/ and  
+the folder in /etc/
